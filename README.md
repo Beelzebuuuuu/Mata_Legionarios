@@ -27,3 +27,5 @@ Luego instalamos openssl con:
 pkg install openssl
 
 Ahora clonamos con
+
+git clone https://github.com/Beelzebuuuuu/Mata_Legionarios
