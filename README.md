@@ -14,7 +14,7 @@ Herramienta para destruir al enemigo, cuenta con 4 módulos para trabajar.
 [4] BUZONEAR NÚMEROS (TENEMOS MÁS DE 30 BUZONES ACTIVOS) Con esta ópción podremos buzonear a números de 30 paises diferentes, lo que hace es una ataque de fuerza bruta a los buzones del número hasta lograr entrar, una vez dentro del buzón lo que hara es mostrarnos los mensajes de voz en un entorno grafico.
 
 
-# 💻 INSTALACIÓN EN TERMUX 📲
+# INSTALACIÓN EN TERMUX 📲
 
 Si no tienes python instalalo con:
 
