@@ -1,5 +1,5 @@
 # Mata_Legionarios
-Elimina memoria del enemigo no me hago responsable del mal uso de esta herramienta ya que solo está hecha con fines educativos
+Elimina la memoria del equipo que ejecute está herramienta así no me hago responsable del mal uso de esta herramienta ya que solo está hecha con fines educativos
 # ☠Mata_Legionarios es una herramienta enfocada al ataque de cuentas, números y grupos de whatsapp. ☠
 
 Herramienta para destruir al enemigo, cuenta con 4 módulos para trabajar.
