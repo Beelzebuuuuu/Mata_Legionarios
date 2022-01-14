@@ -368,8 +368,9 @@ print("""
      \/  \/   |_| |_|\__,_|\__|___/_/    \_\__,_| .__/ 
                                                 | |    
                                                 |_|    
-   NO NOS RESPONSABILIZAMOS DEL USO.
+   NO ME RESPONSABILIZO DEL USO.
    HERRAMIENTA PARA DESTRUIR AL ENEMIGO.
+           ☠️Beelzebuuuuu☠️
                                                                                                             
 ~~~~~~~~~MENU~~~~~~~~~~~~
 [1] ATAQUE A GRUPOS DE WHATSAPP (ELIMINAR)
