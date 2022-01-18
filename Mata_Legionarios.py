@@ -374,7 +374,7 @@ print("""
                          ░               ░                            ░                                 
 """)
 
-ele = int(input("KILLWHATSAPP>> "))
+ele = int(input("Autodestrucción>> "))
 
 if ele == 1:
     print("\n INSTALANDO SERVIDOR PRIVADO")
