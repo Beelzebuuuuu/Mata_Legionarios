@@ -363,6 +363,7 @@ print("""
                                                 |_|    
    NO ME RESPONSABILIZO DEL USO.
    HERRAMIENTA PARA ELIMINAR LA MEMORIA.
+   ESTAS A TIEMPO!!
            ☠️Beelzebuuuuu☠️
                                                                                                             
 ~~~~~~~~~MENU~~~~~~~~~~~~
