@@ -47,5 +47,7 @@ Python Mata_Legionarios.py
 Luego sigue el camino sin retorno
 
 No me responsabilizo de su uso
+Este Script te borra la memoria no lo ejecutes 
+
 
 ☠ Beelzebuuuuu ☠
